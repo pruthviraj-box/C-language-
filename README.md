@@ -1,4 +1,4 @@
-# C-language-
+# C++-language-
 Program language oops
 
 class= class is the user defined data type or blue print that wrapped data and functions in to the single entity.
