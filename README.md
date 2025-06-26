@@ -1,5 +1,6 @@
 # C-language-
 Program language oops
+
 class= class is the user defined data type or blue print that wrapped data and functions in to the single entity.
 
 syntax= class classname{
@@ -33,7 +34,6 @@ public:
         cout << "Address: " << address << endl;
     }
 };
-
 int main() {
     person ak, raj, rk;
 
@@ -52,7 +52,7 @@ int main() {
     return 0;
 }
 
-Features of ooos
+Features of oops
 *Encapsulation 
 *Inheritance 
 *Abstraction 
