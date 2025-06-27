@@ -1,4 +1,4 @@
-# C++-language-
+hi# C++-language-
 Program language oops
 
 class= class is the user defined data type or blue print that wrapped data and functions in to the single entity.
@@ -59,3 +59,33 @@ Features of oops
 *Polymorphism 
 *Class & Object 
 
+ENCAPSULATION 
+
+In it we use binding Data and mention with in the class providing control over the accebality and it prevents external code from directly modifing the internal code of an object.
+
+syntax 
+      class person:
+      {
+      private:
+      data:
+      public:
+      function ()
+      };
+
+
+EX
+
+#include <iostream>
+using namespace std;
+  class Encap{
+  public:
+  int age;
+  string name;
+  };
+  int main (){
+  encape;
+  E.age=22;
+  E.name="AK"
+  cout<<Eage<<endl<<E.name;
+  }
+  
