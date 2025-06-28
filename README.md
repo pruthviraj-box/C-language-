@@ -83,9 +83,9 @@ using namespace std;
   string name;
   };
   int main (){
-  encape;
+  Encape E;
   E.age=22;
   E.name="AK"
-  cout<<Eage<<endl<<E.name;
+  cout<<E.age<<endl<<E.name;
   }
   
