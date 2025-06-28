@@ -88,4 +88,27 @@ using namespace std;
   E.name="AK"
   cout<<E.age<<endl<<E.name;
   }
-  
+
+
+TOKENS 
+
+Smallest individual unit in a program.
+
+It has 6 type 
+*Keywords 
+*Identifies 
+*Constant 
+*Data type
+*Operator 
+
+
+1.KEYWORD 
+   . Expressively is a identifier is and can't  be used as name for program variables or other user defined program elements 
+   . There are 32 key words
+   .They have predefined meaning which can't be changed 
+   Ex=  brak,goto,int,if, while,etc.
+
+2.Identifier 
+ It refors to the name of variables, function, array,class.
+     rules to 
+
