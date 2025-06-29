@@ -188,6 +188,8 @@ Primary data types that allow programmers to store and manipulate different kind
 
 
 2 Derived data type 
+
+
 A derived data type is a data type that is created from one or more existing data types. Derived data types can be used to create more complex structures that can hold multiple values or different types of data.
 
 1.Function 
@@ -201,6 +203,8 @@ A derived data type is a data type that is created from one or more existing dat
 
 
 3 Users defined data type 
+
+A user-defined data type (UDT) is a data type that is defined by the user rather than being built into the programming language. User-defined data types allow programmers to create complex data structures that can better represent real-world entities and relationships. 
 
 1.Class
 
