@@ -168,7 +168,7 @@ Data type define the type of data a variable can hold. There are 3 type of data 
 3. user defined data type
 
 
-1. Primary data type
+Primary data type
 
 Primary data types that allow programmers to store and manipulate different kinds of data effectively.
 
