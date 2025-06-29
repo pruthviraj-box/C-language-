@@ -188,6 +188,7 @@ Primary data types that allow programmers to store and manipulate different kind
 
 
 2 Derived data type 
+A derived data type is a data type that is created from one or more existing data types. Derived data types can be used to create more complex structures that can hold multiple values or different types of data.
 
 1.Function 
 
