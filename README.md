@@ -11,6 +11,8 @@ syntax= class classname{
 object= object is a contract representation of the blue print that is defined by the class.
 
 Ex #include <iostream>
+
+
 using namespace std;
 class person {
 private:
