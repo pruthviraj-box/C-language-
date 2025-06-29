@@ -130,7 +130,7 @@ Constant
 ex= AREA OF CIRCLE= πR×R (R= Radius of circle,π=3.14)
 
 
-operator 
+Operator 
 It is a symbol used to perform a mathematical or logical maneculations 
 
 Type of operator 
@@ -168,7 +168,7 @@ Data type define the type of data a variable can hold. There are 3 type of data 
 3. user defined data type
 
 
-Primary data type
+1.Primary data type
 
 Primary data types that allow programmers to store and manipulate different kinds of data effectively.
 
