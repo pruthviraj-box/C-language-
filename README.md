@@ -173,27 +173,42 @@ Data type define the type of data a variable can hold. There are 3 type of data 
 Primary data types that allow programmers to store and manipulate different kinds of data effectively.
 
 
-1.Integer 
+1.Integer
+ 
 2.Character
+
 3.Hosting point 
-4.Double 
+
+4.Double
+ 
 5.Void.
-6. Boolean 
+
+6.Boolean 
+
 
 
 2 Derived data type 
 
-Function 
-Array 
-Pointer 
-Reference 
+1.Function 
+
+2.Array 
+
+3.Pointer
+ 
+4.Reference
+ 
 
 
 3 Users defined data type 
 
-Class
-Structure 
-Union 
-Exum
-Type def
+1.Class
+
+2.Structure
+ 
+3.Union 
+
+4.Exum
+
+5.Type def
+
 
