@@ -110,5 +110,89 @@ It has 6 type
 
 2.Identifier 
  It refors to the name of variables, function, array,class.
-     rules to 
+
+
+ Rules 
+ 1.Only alphabetical chart degits and '_' underscores are committed.
+
+ 2. Name can't start with digit.
+
+ 3. Upper case and lower case letters are disting.
+
+ 4. Keyword can't be used as variables name.
+
+ex =ARRAY
+
+Constant 
+1.Constant refors to fixed value 
+2.It value don't change during execution of program.
+
+ex= AREA OF CIRCLE= πR×R (R= Radius of circle,π=3.14)
+
+
+operator 
+It is a symbol used to perform a mathematical or logical maneculations 
+
+Type of operator 
+
+1. Assigment operator
+2. Arithmetic operator
+3. Logical operator
+4. Relational operators
+5. Increament and Decrement operator
+6. Bitwise operators
+
+
+Code
+
+
+#include<iostream>
+using namespace std;
+int main (){
+int a= 6 ;
+int b=9 ;
+if (a>b){
+cout <<"A is greater";
+}
+else{
+cout<<" b is greater";
+}
+}
+
+
+Data type 
+Data type define the type of data a variable can hold. There are 3 type of data type in C++.
+
+1. Primary data type
+2. Derived data type
+3. user defined data type
+
+
+1. Primary data type
+
+Primary data types that allow programmers to store and manipulate different kinds of data effectively.
+
+
+Integer 
+Character boolein 
+Hosting point 
+Double 
+Void.
+
+
+2 Derived data type 
+
+Function 
+Array 
+Pointer 
+Reference 
+
+
+3 Users defined data type 
+
+Class
+Structure 
+Union 
+Exum
+Type def
 
