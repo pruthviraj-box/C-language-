@@ -216,4 +216,20 @@ A user-defined data type (UDT) is a data type that is defined by the user rather
 
 5.Type def
 
+code
+
+# include <iostream>
+using namespace std;
+
+int main (){
+int a=10;
+cout<<"Integer type a"=<<a<<"\n";
+cout<<"size of integer=<<size of integer<<
+flaot b=34.84
+cout<<"float"type b=<<b<<"\n"
+double d=34.67
+cout <<"double types d=<<d<<"\n";
+}
+
+
 
