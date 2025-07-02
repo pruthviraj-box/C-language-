@@ -52,7 +52,7 @@ int main() {
     return 0;
 }
 
-Features of oops
+# Features of oops
 *Encapsulation 
 *Inheritance 
 *Abstraction 
@@ -90,7 +90,7 @@ using namespace std;
   }
 
 
-TOKENS 
+# TOKENS 
 
 Smallest individual unit in a program.
 
@@ -160,7 +160,7 @@ cout<<" b is greater";
 }
 
 
-Data type 
+ # Data type 
 Data type define the type of data a variable can hold. There are 3 type of data type in C++.
 
 1. Primary data type
@@ -218,7 +218,7 @@ A user-defined data type (UDT) is a data type that is defined by the user rather
 
 code
 
-# include <iostream>
+#include <iostream>
 using namespace std;
 
 int main (){
