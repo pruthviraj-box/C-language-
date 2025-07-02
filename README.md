@@ -233,3 +233,61 @@ cout <<"double types d=<<d<<"\n";
 
 
 
+#include<iostream>
+using namespace std;
+int main (){
+    string signal;
+    cout<<"enter the weather condition:";
+    cin>>signal;
+    if (signal =="red"){
+        cout<<"dont go ! plz wate";
+    }
+    if (signal=="green"){
+    
+        cout<<"Dont stop you can go";
+        
+    }
+
+    
+}
+
+#include<iostream>
+using namespace std;
+int main (){
+    string signal;
+    cout<<"Enter the signal value ";
+    cin>>signal;
+    if (signal=="red"){
+        cout<<"don't go ! plz stop "<<endl;
+        cout<<"if it green you can go";
+    }
+}
+
+
+#include<iostream>
+using namespace std;
+int main (){
+    int amt,tax;
+    cout<<"enter the amount:";
+    cin>>amt;
+    if (amt <= 10000){
+        cout<<"don't need t pay tax ";
+    }
+     else if (amt>10000&& amt==50000){
+       tax=amt*10/100;
+        cout<<"tax amount"<<tax;
+    }
+     else if (amt>50000&& amt<=100000){
+       tax=amt*20/100;
+        cout<<"tax amount"<<tax;
+    }
+     else if (amt>100000&& amt<=200000){
+       tax=amt*10/100;
+        cout<<"tax amount"<<tax;
+    }
+    else {
+       tax=amt*40/100;
+        cout<<"tax amount"<<tax;
+    }
+}
+
