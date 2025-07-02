@@ -231,6 +231,23 @@ double d=34.67
 cout <<"double types d=<<d<<"\n";
 }
 
+# condition statement 
+
+Conditional statement allow you to make a desigion based on the result of condition .
+
+Type of condition statement  
+
+1.if statement 
+only one condition is present in the program
+
+2.if....else statement 
+two condition are present in the program
+
+3.if....else....if statement
+more then one conditin are present in the program 
+
+4.nested..if statement 
+in if condition one more if condition is present
 
 
 #include<iostream>
