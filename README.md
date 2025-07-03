@@ -237,17 +237,35 @@ Conditional statement allow you to make a desigion based on the result of condit
 
 Type of condition statement  
 
-1.if statement 
-only one condition is present in the program
+1.If statement 
 
-2.if....else statement 
-two condition are present in the program
+Only one condition is present in the program
 
-3.if....else....if statement
-more then one conditin are present in the program 
+2.If....else statement 
 
-4.nested..if statement 
-in if condition one more if condition is present
+Two condition are present in the program
+
+3.If....else....if statement
+
+More then one conditin are present in the program 
+
+4.Nested..if statement 
+
+In if condition one more if condition is present
+
+5.Switch statement
+
+It is nothing but multiple choice selection statement it means when we want to select one case outoff multiple case 
+
+*Syntax 
+
+
+1.If...statement
+
+= if condition 
+{
+//statement;
+}
 
 
 #include<iostream>
@@ -264,9 +282,9 @@ int main (){
         cout<<"Dont stop you can go";
         
     }
-
-    
 }
+
+
 
 #include<iostream>
 using namespace std;
@@ -277,7 +295,62 @@ int main (){
     if (signal=="red"){
         cout<<"don't go ! plz stop "<<endl;
         cout<<"if it green you can go";
+    }    
+}
+
+
+2. If....else
+
+If...statement
+
+= if condition 
+{
+//statement;
+}If...statement
+
+else
+{
+//statement;
+}
+   
+
+#include<iostream>
+using namespace std;
+int main (){
+    string weather;
+    cout<<"Enter the weather condition ";
+    cin>>weather;
+    if (weather=="raining"){
+        cout<<"need an umbralla to go out "<<endl;
     }
+    else
+    {
+        cout<<"Don't  need an umbralla";
+    }
+}
+
+
+3.If...else...if..
+
+
+= if condition 
+{
+//statement;
+}
+
+else if condition 
+{
+//statement;
+}
+
+else if condition 
+{
+//statement;
+}
+
+ else 
+{
+//statement;
 }
 
 
@@ -308,3 +381,24 @@ int main (){
     }
 }
 
+4.Nested if
+
+= if condition 
+{
+//statement;
+
+if condition 
+{
+//statement;
+}
+
+ else 
+{
+//statement;
+}
+}
+
+else 
+{
+//statement;
+}
